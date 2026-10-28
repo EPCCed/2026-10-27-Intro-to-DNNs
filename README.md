@@ -4,7 +4,7 @@ This repository contains materials for the Pilot-UKAIFA in-person course, Introd
 ## Course Materials
 
 The course slides: https://github.com/EPCCed/2026-10-27-Intro-to-DNNs/blob/main/Introduction_to_DNNs.pdf. 
-This slide deck references the various practical exercises which are all based on notebooks contained in the [practicals] directory.
+This slide deck references the various practical exercises which are all based on notebooks and will be available here soon.
 
 During this course, we also referred to material in the course Demystifying AI (including an introduction to Embeddings). You can find this at https://github.com/EPCCed/2026-08-21-Demystifying-AI. 
 

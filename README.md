@@ -4,7 +4,7 @@ Edinburgh, Tuesday 27 October, 2026
 
 ## Course Materials
 
-The course slides are available in the [slides] directory. This slide deck references the various practical exercises which are all based on notebooks contained in the [practicals] directory.
+The slides(https://github.com/EPCCed/2026-10-27-Intro-to-DNNs/blob/main/Introduction_to_DNNs.pdf) for this course. This slide deck references the various practical exercises which are all based on notebooks contained in the [practicals] directory.
 
 During this course, we also referred to material in the course Demystifying AI (including an introduction to Embeddings). You can find this at https://github.com/EPCCed/2026-08-21-Demystifying-AI. 
 

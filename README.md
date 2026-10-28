@@ -1,6 +1,5 @@
 # 2026-10-27-Intro-to-DNNs
-This repository contains materials for the Pilot-UKAIFA in-person course, Introduction to Deep Neural Networks (DNNs)
-Edinburgh, Tuesday 27 October, 2026
+This repository contains materials for the Pilot-UKAIFA in-person course, Introduction to Deep Neural Networks (DNNs) in Edinburgh, Tuesday 27 October, 2026
 
 ## Course Materials
 

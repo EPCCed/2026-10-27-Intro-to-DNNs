@@ -1,8 +1,12 @@
 # 2026-10-27-Intro-to-DNNs
+This repository contains materials for the Pilot-UKAIFA in-person course, Introduction to Deep Neural Networks (DNNs)
+Edinburgh, Tuesday 27 October, 2026
 
-Course material for course on Deep Neural Networks
+## Course Materials
 
-During this course, we referred to material in the course Demystifying AI (including an introduction to Embeddings). You can find this at https://github.com/EPCCed/2026-08-21-Demystifying-AI. 
+The course slides are available in the [slides] directory. This slide deck references the various practical exercises which are all based on notebooks contained in the [practicals] directory.
+
+During this course, we also referred to material in the course Demystifying AI (including an introduction to Embeddings). You can find this at https://github.com/EPCCed/2026-08-21-Demystifying-AI. 
 
 You will have access to the notebook server at https://notebook.eidf.ed.ac.uk for several days after the course. After the course, the notebook files will be available here, but you will need to run them on your own computer or an online on a service like Google Colab.
 
